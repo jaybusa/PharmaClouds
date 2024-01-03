@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "na";
+    font-style: normal;
+    font-weight: normal;
+    src: url("https://s3-ap-southeast-1.amazonaws.com/dcnet/pub_nocache_nocdn/underconstruct_skel_misc_cpanel_linux/Nassim_Regular.eot") format("embedded-opentype"), url("https://s3-ap-southeast-1.amazonaws.com/dcnet/pub_nocache_nocdn/underconstruct_skel_misc_cpanel_linux/Nassim_Regular.woff") format("woff"), url("https://s3-ap-southeast-1.amazonaws.com/dcnet/pub_nocache_nocdn/underconstruct_skel_misc_cpanel_linux/Nassim_Regular.ttf") format("opentype"), url("https://s3-ap-southeast-1.amazonaws.com/dcnet/pub_nocache_nocdn/underconstruct_skel_misc_cpanel_linux/Nassim_Regular.svg") format("svg");
+}
+
+.text-right{text-align:left!important;}
+.text-left{text-align:right!important;}
+.pull-right{float:left!important;}
+.pull-left{float:right!important;}
+
+body {
+	font-family:na;
+	font-size:16px;
+}
+/* Toggle Styles */
+#wrapper {
+    padding-right: 0;
+	&.toggled {
+		padding-right: 250px;
+		#page-content-wrapper {
+			position: absolute;
+			margin-left: -250px;
+		}
+	}
+}
+#sidebar-wrapper {
+    right: 250px;
+    margin-right: -250px;
+}
+#page-content-wrapper {
+}
+@media(min-width:768px) {
+    #wrapper {
+        padding-right: 250px;
+    }
+    #wrapper.toggled {
+        padding-right: 0;
+		#page-content-wrapper {
+			margin-left: 0;
+		}
+    }
+}

@@ -1,0 +1,92 @@
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Pagination Language Lines
+    |--------------------------------------------------------------------------
+    |
+    | The following language lines are used by the paginator library to build
+    | the simple pagination links. You are free to change them to anything
+    | you want to customize your views to better match your application.
+    |
+    */
+    'common' => [
+        'invalid_auth_token' => 'Invalid user authentication arabic.',
+        'valid_auth_token' => 'Valid user authentication arabic.',
+        'token_expired' => 'Your session has expired. Please login again arabic.',
+        'invalid_token' => 'Invalid user token arabic.',
+        'token_blocked' => 'Token Blocked arabic.',
+        'token_required' => 'Token Required arabic.'
+    ],
+    'login_left_title'=>'Please use your credentials to login for arabic.',
+    'site_name'=>'Pharmaclouds arabic',
+    'admin_text'=>'Admin arabic',
+    'select_theme_text'=>'Select Theme arabic',
+    'select_language_text'=>'Select Language arabic',
+    'light_theme_text'=>'Light arabic',
+    'dark_theme_text'=>'Dark arabic',
+    'english_text'=>'English arabic',
+    'arabic_text'=>'Arabic arabic',
+    'email_text'=>'Email arabic',
+    'login_text'=>'Login arabic',
+    'dark_mode_text'=>'Dark Mode Arabic',
+    'password_text'=>'Password arabic',
+    'sidebar_dashboard_text'=>'Dashboards Arabic',
+    'sidebar_orders_text'=>'Orders Arabic',
+    'sidebar_users_text'=>'Users Arabic',
+    'sidebar_categories_text'=>'Categories Arabic',
+    'sidebar_settings_text'=>'Settings Arabic',
+    'home_text'=>'Home Arabic',
+    'sidebar_users_hairdresser_text'=>'Pharmaclouds Arabic',
+    'sidebar_users_customer_text'=>'Customer Arabic',
+    'sidebar_parent_categories_text'=>'Parent Category Arabic',
+    'sidebar_category_text'=>'Category Arabic',
+    'login_otp_enable_disable_text'=>'Login OTP Enable/Disable arabic',
+    'enable_text'=>'Enable arabic',
+    'disable_text'=>'Disable arabic',
+    'tax_text'=>'Tax (%) arabic',
+    'commission_text'=>'Commission (%) arabic',
+    'support_email_text'=>'Support Email arabic',
+    'support_phone_text'=>'Support Phone arabic',
+    'copyright_text'=>'Copyright Text arabic',
+    'submit_text'=>'Submit arabic',
+    'name_required'=>'Please enter name arabic',
+    'email_required'=>'Please enter email arabic.',
+    'email_valid'=>'Please enter valid email address arabic.',
+    'email_already_register'=>'Email already register. please try diffrent email arabic.',
+    'phone_number_required'=>'Please enter phone number arabic.',
+    'password_required'=>'Please enter password arabic.',
+    'password_min'=>'Please enter min 6 charater password arabic.',
+    'new_password_required'=>'Please enter new password arabic.',
+    'mew_password_min'=>'Please enter min 6 charater new password arabic.',
+    'role_id_required'=>'Please enter role id arabic.',
+    'user_register_success'=>'User registered successfully arabic.',
+    'user_login_success'=>'User login successfully arabic.',
+    'login_invalid_credential'=>'Invalid credentials arabic.',
+    'user_inactive_by_admin'=>'Your account inactive by admin arabic.',
+    'otp_required'=>'Please enter otp arabic.',
+    'otp_send_success'=>'Otp send successfully arabic.',
+    'change_password_success'=>'Change password successfully arabic.',
+    'invalid_current_password'=>'Invalid current password arabic.',
+    'admin_setting_success'=>'Settings found successfully arabic.',
+    'user_email_not_found'=>'User email not found arabic.',
+    'otp_subject'=>'Your otp arabic.',
+    'logout'=>'Logout successfully arabic.',
+    'login_failed'=>'These credentials do not match our records arabic.',
+    'tax_required'=>'Please enter tax arabic.',
+    'tax_valid'=>'Tax must be greater then zero arabic.',
+    'commission_required'=>'Please enter commission arabic.',
+    'commission_valid'=>'Commission must be greater then zero arabic.',
+    'setting_success'=>'Settings updated successfully arabic.',
+    'profile_success'=>'Profile successfully arabic.',
+    'profile_update_success'=>'Profile updated successfully arabic.',
+    'category_list_success'=>'Category list successfully arabic.',
+    'category_id_required'=>'Please select category arabic.',
+    'price_required'=>'Please enter price arabic.',
+    'save_service_success'=>'Save service successfully arabic.',
+    'service_id_required'=>'Please enter service id arabic.',
+    'delete_service_success'=>'Delete service successfully arabic.',
+    'service_list_success'=>'Service list successfully arabic.',
+];

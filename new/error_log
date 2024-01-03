@@ -1,0 +1,31 @@
+[23-Mar-2017 00:19:52 GMT] PHP Fatal error:  Can't use function return value in write context in /home/carcare/public_html/application/controllers/Users.php on line 102
+[23-Mar-2017 00:23:00 GMT] PHP Fatal error:  Can't use function return value in write context in /home/carcare/public_html/application/controllers/Users.php on line 102
+[23-Mar-2017 00:23:02 GMT] PHP Fatal error:  Can't use function return value in write context in /home/carcare/public_html/application/controllers/Users.php on line 102
+[23-Mar-2017 00:23:41 GMT] PHP Fatal error:  Can't use function return value in write context in /home/carcare/public_html/application/controllers/Users.php on line 102
+[23-Mar-2017 00:25:52 GMT] PHP Fatal error:  Can't use function return value in write context in /home/carcare/public_html/application/controllers/Users.php on line 102
+[23-Mar-2017 00:33:18 GMT] PHP Fatal error:  Can't use function return value in write context in /home/carcare/public_html/application/controllers/Users.php on line 102
+[23-Mar-2017 00:33:21 GMT] PHP Fatal error:  Can't use function return value in write context in /home/carcare/public_html/application/controllers/Users.php on line 102
+[23-Mar-2017 00:33:22 GMT] PHP Fatal error:  Can't use function return value in write context in /home/carcare/public_html/application/controllers/Users.php on line 102
+[23-Mar-2017 00:33:23 GMT] PHP Fatal error:  Can't use function return value in write context in /home/carcare/public_html/application/controllers/Users.php on line 102
+[23-Mar-2017 00:33:24 GMT] PHP Fatal error:  Can't use function return value in write context in /home/carcare/public_html/application/controllers/Users.php on line 102
+[23-Mar-2017 00:33:25 GMT] PHP Fatal error:  Can't use function return value in write context in /home/carcare/public_html/application/controllers/Users.php on line 102
+[23-Mar-2017 00:33:29 GMT] PHP Fatal error:  Can't use function return value in write context in /home/carcare/public_html/application/controllers/Users.php on line 102
+[23-Mar-2017 00:34:56 GMT] PHP Fatal error:  Can't use function return value in write context in /home/carcare/public_html/application/controllers/Users.php on line 102
+[23-Mar-2017 00:34:58 GMT] PHP Fatal error:  Can't use function return value in write context in /home/carcare/public_html/application/controllers/Users.php on line 102
+[23-Mar-2017 00:34:59 GMT] PHP Fatal error:  Can't use function return value in write context in /home/carcare/public_html/application/controllers/Users.php on line 102
+[23-Mar-2017 18:32:00 GMT] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ',' or ')' in /home/carcare/public_html/application/controllers/Check_ins.php on line 122
+[23-Mar-2017 18:34:20 GMT] PHP Parse error:  syntax error, unexpected ')' in /home/carcare/public_html/application/controllers/Check_ins.php on line 122
+[23-Mar-2017 20:17:31 GMT] PHP Parse error:  syntax error, unexpected '$lang' (T_VARIABLE) in /home/carcare/public_html/application/language/english/terms_lang.php on line 1
+[24-Mar-2017 03:01:00 GMT] PHP Parse error:  syntax error, unexpected '$lang' (T_VARIABLE) in /home/carcare/public_html/application/language/english/terms_lang.php on line 1
+[24-Mar-2017 03:01:33 GMT] PHP Parse error:  syntax error, unexpected '$lang' (T_VARIABLE) in /home/carcare/public_html/application/language/english/terms_lang.php on line 1
+[24-Mar-2017 03:01:38 GMT] PHP Parse error:  syntax error, unexpected '$lang' (T_VARIABLE) in /home/carcare/public_html/application/language/english/terms_lang.php on line 1
+[24-Mar-2017 03:02:13 GMT] PHP Parse error:  syntax error, unexpected '$lang' (T_VARIABLE) in /home/carcare/public_html/application/language/english/terms_lang.php on line 1
+[24-Mar-2017 03:02:16 GMT] PHP Parse error:  syntax error, unexpected '$lang' (T_VARIABLE) in /home/carcare/public_html/application/language/english/terms_lang.php on line 1
+[24-Mar-2017 03:02:26 GMT] PHP Parse error:  syntax error, unexpected '$lang' (T_VARIABLE) in /home/carcare/public_html/application/language/english/terms_lang.php on line 1
+[24-Mar-2017 03:02:41 GMT] PHP Parse error:  syntax error, unexpected '$lang' (T_VARIABLE) in /home/carcare/public_html/application/language/english/terms_lang.php on line 1
+[24-Mar-2017 03:03:12 GMT] PHP Parse error:  syntax error, unexpected '$lang' (T_VARIABLE) in /home/carcare/public_html/application/language/english/terms_lang.php on line 1
+[24-Mar-2017 03:03:20 GMT] PHP Parse error:  syntax error, unexpected '$lang' (T_VARIABLE) in /home/carcare/public_html/application/language/english/terms_lang.php on line 1
+[24-Mar-2017 03:03:23 GMT] PHP Parse error:  syntax error, unexpected '$lang' (T_VARIABLE) in /home/carcare/public_html/application/language/english/terms_lang.php on line 1
+[24-Mar-2017 04:04:05 GMT] PHP Parse error:  syntax error, unexpected '$lang' (T_VARIABLE) in /home/carcare/public_html/application/language/english/terms_lang.php on line 1
+[25-Mar-2017 18:03:03 GMT] PHP Fatal error:  Can't use method return value in write context in /home/carcare/public_html/application/controllers/Check_ins.php on line 266
+[25-Mar-2017 18:04:00 GMT] PHP Fatal error:  Can't use method return value in write context in /home/carcare/public_html/application/controllers/Check_ins.php on line 266
